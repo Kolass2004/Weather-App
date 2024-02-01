@@ -1,4 +1,4 @@
-const API_KEY = 'f9bbe0c99462697f2dcef8db4432c9e1';
+const API_KEY = ''; // api key from openweather website
 const btn = document.getElementById('btn');
 
 // geolocation fetch
